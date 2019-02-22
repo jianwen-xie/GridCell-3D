@@ -28,10 +28,12 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
     $ python main.py --mode 2 --GandE 1
     
  <p align="center">
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/2.png" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/3.png" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/4.png" width="350px"/></p>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/2.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/3.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/4.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/5.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/6.png" width="300px"/></p>
     
 ### (ii) Path planning
 
@@ -46,3 +48,11 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 ####  Testing path planning with obstacle
 
     $ python path_planning_obstacle.py
+    
+ <p align="center">
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/1.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/2.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/3.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/4.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/5.png" width="300px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/6.png" width="300px"/></p>
