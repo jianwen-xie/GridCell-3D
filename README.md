@@ -29,9 +29,9 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
     
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/waterfall.gif" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/vapour.gif" width="350px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/flashing_light.gif" width="350px"/></p>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/2.png" width="350px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/3.png" width="350px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/4.png" width="350px"/></p>
     
 ### (ii) Path planning
 
