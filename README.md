@@ -17,13 +17,13 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 ## How to run
 
-### (i) Path integral
+### (1) Path integral
 
-- Training with Gaussian kernel
+#### Training with Gaussian kernel
 
     $ python main.py --mode 0 --GandE 1
 
-- Testing path integral
+#### Testing path integral
 
     $ python main.py --mode 2 --GandE 1
     
@@ -35,7 +35,7 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/5.png" width="260px"/>
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/6.png" width="260px"/></p>
     
-### (ii) Path planning
+### (2) Path planning
 
 #### Training with exponential kernel
 
@@ -50,9 +50,21 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
     $ python path_planning_obstacle.py
     
  <p align="center">
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/1.png" width="300px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/2.png" width="300px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/3.png" width="300px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/4.png" width="300px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/5.png" width="300px"/>
- <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/6.png" width="300px"/></p>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/1.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/2.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/3.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/4.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/5.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/6.png" width="260px"/></p>
+ 
+ 
+ 
+ <p align="center">
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test00.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test01.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test02.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test03.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test04.png" width="260px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test05.png" width="260px"/></p>
+ 
+ 
