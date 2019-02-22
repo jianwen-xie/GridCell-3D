@@ -15,17 +15,23 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 - [Tensorflow r1.0+](https://www.tensorflow.org/install/)
 
 
-## Usage
+## How to run
 
 ### (i) Path integral
 
-#### Training with Gaussian kernel
+- Training with Gaussian kernel
 
     $ python main.py --mode 0 --GandE 1
 
-#### Testing path integral
+- Testing path integral
 
     $ python main.py --mode 2 --GandE 1
+    
+ <p align="center">
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="350px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/waterfall.gif" width="350px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/vapour.gif" width="350px"/>
+ <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/flashing_light.gif" width="350px"/></p>
     
 ### (ii) Path planning
 
