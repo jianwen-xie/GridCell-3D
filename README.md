@@ -43,11 +43,8 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
     
 #### Testing path planning
 
-    $ python path_planning.py
-    
-####  Testing path planning with obstacle
+    $ python path_planning.py    
 
-    $ python path_planning_obstacle.py
     
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/1.png" width="260px"/>
@@ -57,7 +54,9 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/5.png" width="260px"/>
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning/6.png" width="260px"/></p>
  
- 
+ ####  Testing path planning with obstacle
+
+    $ python path_planning_obstacle.py
  
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test00.png" width="260px"/>
