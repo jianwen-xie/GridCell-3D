@@ -19,7 +19,7 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 ### (0) Learning 3D units
 
-    $ python ./code_single_block/main.py
+    $ python ./code_single_group/main.py
 
 
 ### (1) Path integral
