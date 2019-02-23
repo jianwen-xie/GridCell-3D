@@ -25,7 +25,7 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 #### Testing path integral
 
-    $ python main.py --mode 2 --GandE 1
+    $ python main.py --mode 2 --GandE 1 --ckpt model.ckpt-7999
     
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="260px"/>
