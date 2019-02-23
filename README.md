@@ -17,15 +17,20 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 ## How to run
 
+### (0) Learning 3D units
+
+   $ python ./code_single_block/main.py
+
+
 ### (1) Path integral
 
 #### Training with Gaussian kernel
 
-    $ python main.py --mode 0 --GandE 1
+    $ python ./code/main.py --mode 0 --GandE 1
 
 #### Testing path integral
 
-    $ python main.py --mode 2 --GandE 1 --ckpt model.ckpt-7999
+    $ python ./code/main.py --mode 2 --GandE 1 --ckpt model.ckpt-7999
     
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_integral/1.png" width="260px"/>
@@ -39,11 +44,11 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 #### Training with exponential kernel
 
-    $ python main.py --mode 0 --GandE 0
+    $ python ./code/main.py --mode 0 --GandE 0
     
 #### Testing path planning
 
-    $ python path_planning.py    
+    $ python ./code/path_planning.py    
 
     
  <p align="center">
@@ -56,7 +61,7 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
  
  ####  Testing path planning with obstacle
 
-    $ python path_planning_obstacle.py
+    $ python ./code/path_planning_obstacle.py
  
  <p align="center">
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test00.png" width="260px"/>
