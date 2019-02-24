@@ -17,9 +17,20 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
 
 ## How to run
 
-### (0) Learning 3D units
+### (0) Learning 3D units (single block setting)
 
-    $ python ./code_single_group/main.py
+    $ python ./code_single_group/main.py --single_block True --num_group 1 --block_size 8
+    
+<p align="center">
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_0.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_1.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_2.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_3.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_4.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_5.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_6.png" width="260px"/>
+<img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/3D_patterns/heatmap_7.png" width="260px"/></p> 
+ 
 
 
 ### (1) Path integral
