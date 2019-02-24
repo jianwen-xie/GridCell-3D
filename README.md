@@ -87,4 +87,6 @@ This repository contains a tensorflow implementation of 3D grid cell, which is i
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test04.png" width="260px"/>
  <img src="https://github.com/jianwen-xie/GridCell-3D/blob/master/demo/path_planning_obstacle/test05.png" width="260px"/></p>
  
+ ### Q & A
+For any questions, please contact Jianwen Xie (jianwen@ucla.edu) and Ruiqi Gao (ruiqigao@ucla.edu) 
  
